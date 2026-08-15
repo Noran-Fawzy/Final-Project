@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "title": "Modern Beige Sofa",
+    "price": 850,
+    "category": "Sofas",
+    "image": "/images/sofa-1.jpg",
+    "description": "A comfortable modern beige sofa designed to bring elegance and comfort to your living room."
+  },
+  {
+    "id": 2,
+    "title": "Modern Armchair",
+    "price": 420,
+    "category": "Chairs",
+    "image": "/images/chair-1.jpg",
+    "description": "A stylish modern armchair perfect for reading, relaxing and adding character to your space."
+  },
+  {
+    "id": 3,
+    "title": "Wooden Coffee Table",
+    "price": 280,
+    "category": "Tables",
+    "image": "/images/table-1.jpg",
+    "description": "A simple wooden coffee table with a modern design for your living room."
+  },
+  {
+    "id": 4,
+    "title": "Modern Dining Table",
+    "price": 720,
+    "category": "Tables",
+    "image": "/images/table-2.jpg",
+    "description": "Elegant dining table designed for family meals and beautiful gatherings."
+  },
+  {
+    "id": 5,
+    "title": "Comfortable Dining Chair",
+    "price": 180,
+    "category": "Chairs",
+    "image": "/images/chair-2.jpg",
+    "description": "Comfortable dining chair with a clean and modern look."
+  },
+  {
+    "id": 6,
+    "title": "Modern Bed Frame",
+    "price": 950,
+    "category": "Beds",
+    "image": "/images/bed-1.jpg",
+    "description": "A modern bed frame designed to create a relaxing and elegant bedroom."
+  },
+  {
+    "id": 7,
+    "title": "Minimalist Bedside Table",
+    "price": 230,
+    "category": "Tables",
+    "image": "/images/bedside-table.jpg",
+    "description": "Minimalist bedside table with storage space and a beautiful modern design."
+  },
+  {
+    "id": 8,
+    "title": "Modern TV Unit",
+    "price": 560,
+    "category": "Storage",
+    "image": "/images/tv-unit.jpg",
+    "description": "Modern TV unit with a clean design and practical storage."
+  },
+  {
+    "id": 9,
+    "title": "Wooden Bookshelf",
+    "price": 390,
+    "category": "Storage",
+    "image": "/images/bookshelf.jpg",
+    "description": "Elegant wooden bookshelf for organizing books and displaying your favorite items."
+  },
+  {
+    "id": 10,
+    "title": "Modern Floor Lamp",
+    "price": 160,
+    "category": "Lighting",
+    "image": "/images/lamp.jpg",
+    "description": "A modern floor lamp that adds warm and elegant lighting to your home."
+  },
+  {
+    "id": 11,
+    "title": "Luxury Lounge Chair",
+    "price": 630,
+    "category": "Chairs",
+    "image": "/images/lounge-chair.jpg",
+    "description": "A comfortable luxury lounge chair designed for stylish living rooms."
+  },
+  {
+    "id": 12,
+    "title": "Round Dining Table",
+    "price": 680,
+    "category": "Tables",
+    "image": "/images/round-table.jpg",
+    "description": "Beautiful round dining table with a modern minimalist design."
+  }
+]
